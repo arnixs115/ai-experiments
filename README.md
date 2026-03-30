@@ -24,7 +24,7 @@
 - Loss function 및 ensemble 전략 실험
 - Private 12 / 219 (상위 5%)
 
-👉 https://github.com/your-github-id/sentiment-analysis
+👉 https://github.com/arnixs115/boostcamp8-review-sentiment-classification
 
 ---
 
