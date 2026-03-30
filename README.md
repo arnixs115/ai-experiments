@@ -3,11 +3,15 @@
 문제를 구조적으로 정의하고, 가설 기반 실험을 통해 모델 성능과 한계를 해석하는 AI 엔지니어입니다.  
 단순히 모델을 적용하는 것을 넘어서, 데이터와 문제의 구조를 이해하고 개선 방향을 탐색하는 과정에 집중합니다.
 
+---
+
 ## 📌 About Me
 
 - 다양한 NLP/ML 프로젝트 경험 (감성 분석, QA, LLM, 시계열 예측)
 - 실험 기반 접근을 통해 문제 해결 과정 설계
 - 협업 과정에서 발생하는 문제를 개선하고 구조화하는 경험 보유
+
+---
 
 ## 🚀 Projects
 
@@ -19,6 +23,8 @@
 - Private 12 / 219 (상위 5%)
 
 👉 https://github.com/arnixs115/boostcamp8-review-sentiment-classification
+
+---
 
 ### 📚 MRC (Machine Reading Comprehension) Project
 > Retriever-Reader 구조 기반 QA 시스템에서 데이터 이해와 협업 구조의 중요성을 학습한 프로젝트
@@ -58,6 +64,8 @@
 
 👉 https://github.com/boostcampaitech8/pro-nlp-generationfornlp-nlp-09
 
+---
+
 ### 📊 원자재 투자 결정 어시스턴트 프로젝트
 > 가격 및 뉴스 데이터를 활용한 예측에서 feature 설계와 모델 구조의 한계를 분석한 프로젝트
 
@@ -78,6 +86,8 @@
   👉 “feature와 target 간 정렬”이 더 중요함을 확인
 
 👉 https://github.com/boostcampaitech8/pro-nlp-finalproject-nlp-09
+
+---
 
 ## 🧩 Skills
 
